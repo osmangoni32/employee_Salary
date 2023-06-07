@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Ibos_Internship_Test",
+    "\\Ibos_Internship_Test\\Controllers",
+    "\\Ibos_Internship_Test\\Db-Context",
+    "\\Ibos_Internship_Test\\DbContexts",
+    "\\Ibos_Internship_Test\\Models"
+  ],
+  "SelectedNode": "\\Ibos_Internship_Test\\Controllers\\EmployeeController.cs",
+  "PreviewInSolutionExplorer": false
+}
