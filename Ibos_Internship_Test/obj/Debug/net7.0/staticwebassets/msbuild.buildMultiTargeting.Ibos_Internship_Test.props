@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ibos_Internship_Test.props" />
+</Project>
